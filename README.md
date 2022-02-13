@@ -1,7 +1,7 @@
 # printf
 
 You have to recode the printf() function from stdio.h. The prototype of ft_printf() is:
-###int    ft_printf(const char *, ...)
+### int    ft_printf(const char *, ...)
 
 You have to implement the following conversions:
 * %c Prints a single character.
